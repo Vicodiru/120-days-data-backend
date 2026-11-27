@@ -2,14 +2,14 @@
 
 A structured self-study path through Python, data analysis, SQL and backend engineering, one small lesson or project per day. Every folder contains a concept note, runnable code, an exercise and a notes section.
 
-**Progress: Day 1 of 120**  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱  (1%)
+**Progress: Day 2 of 120**  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱  (2%)
 
 ## Syllabus
 
 | Day | Module | Lesson | Status |
 |---:|---|---|:---:|
 | 1 | Python Foundations | [Variables and Types](https://github.com/Vicodiru/120-days-data-backend/tree/main/day-001-variables-and-types) | ✅ |
-| 2 | Python Foundations | Strings and f-Strings | ⬜ |
+| 2 | Python Foundations | [Strings and f-Strings](https://github.com/Vicodiru/120-days-data-backend/tree/main/day-002-strings-and-f-strings) | ✅ |
 | 3 | Python Foundations | Lists and Slicing | ⬜ |
 | 4 | Python Foundations | Dicts and Sets | ⬜ |
 | 5 | Python Foundations | Control Flow | ⬜ |
